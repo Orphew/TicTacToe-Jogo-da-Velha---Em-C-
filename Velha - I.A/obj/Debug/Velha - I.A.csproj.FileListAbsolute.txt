@@ -1,0 +1,9 @@
+C:\Users\Orphew\Desktop\Exercícios\Velha - I.A\Velha - I.A\bin\Debug\Velha - I.A.exe.config
+C:\Users\Orphew\Desktop\Exercícios\Velha - I.A\Velha - I.A\obj\Debug\Velha - I.A.exe
+C:\Users\Orphew\Desktop\Exercícios\Velha - I.A\Velha - I.A\obj\Debug\Velha - I.A.pdb
+C:\Users\Orphew\Desktop\Exercícios\Velha - I.A\Velha - I.A\obj\Debug\Velha - I.A.csprojResolveAssemblyReference.cache
+C:\Users\Orphew\Desktop\Exercícios\Velha - I.A\Velha - I.A\bin\Debug\Velha - I.A.exe
+C:\Users\Orphew\Desktop\Exercícios\Velha - I.A\Velha - I.A\bin\Debug\Velha - I.A.pdb
+C:\Users\Orphew\Desktop\Artifex - Dedique-se\Programas 2019\Linguagem C-Sharp\Velha - I.A\Velha - I.A\bin\Debug\Velha - I.A.exe.config
+C:\Users\Orphew\Desktop\Artifex - Dedique-se\Programas 2019\Linguagem C-Sharp\Velha - I.A\Velha - I.A\obj\Debug\Velha - I.A.exe
+C:\Users\Orphew\Desktop\Artifex - Dedique-se\Programas 2019\Linguagem C-Sharp\Velha - I.A\Velha - I.A\obj\Debug\Velha - I.A.pdb
